@@ -2649,6 +2649,19 @@
         ],
         "name": "Stephan Bickel"
     },
+    "smeisler": {
+        "affiliation": "Harvard University",
+        "blog": "https://www.StevenMeisler.com",
+        "contributions": [
+            "bug",
+            "code"
+            "question",
+        ],
+        "email": "smeisler13@gmail.com",
+        "name": "Steven Meisler",
+        "orcid": "0000-0002-8888-1572",
+        "publish_email": true
+    },
     "suyashdb": {
         "blog": "https://www.linkedin.com/in/suyashb/",
         "contributions": [
